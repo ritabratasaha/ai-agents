@@ -102,14 +102,14 @@ async def main():
     # result1 = await Runner.run(triage_agent, "How is a leave encashment calculated as per company policy ?")
     # print(result1.final_output)
   
-    print("My employee id is E102.Please find my earn leave balance and basic salary.Once you have it please calculate my leave encashment amount?")
-    result1 = await Runner.run(triage_agent, "My employee id is E102.\
+    print("My employee id is E105.Please find my earn leave balance and basic salary.Once you have it please calculate my leave encashment amount?")
+    result1 = await Runner.run(triage_agent, "My employee id is E105.\
                                               Please find my earn leave balance and basic salary.\
                                               Once you have it please calculate my leave encashment amount?")
     print(result1.final_output)
     
    
 
-
+ 
 if __name__ == "__main__":
     asyncio.run(main())

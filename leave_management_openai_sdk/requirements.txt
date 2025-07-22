@@ -1,6 +1,6 @@
 agate==1.9.1
 altair==5.5.0
-altgraph
+altgraph 
 annotated-types==0.7.0
 anyio==4.7.0
 appnope==0.1.4
