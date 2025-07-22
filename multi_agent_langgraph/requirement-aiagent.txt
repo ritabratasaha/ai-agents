@@ -1,0 +1,9 @@
+ load_dotenv 
+ requests
+ langchain-openai 
+ pydantic 
+ openai 
+ langsmith 
+ langgraph 
+ langchain-core
+ pydantic
